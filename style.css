@@ -1,0 +1,58 @@
+body{
+    background-color: #EBFFFB;
+}
+
+p.SMA{
+    color: red;
+    font-size: 1rem;
+}
+
+#personal{
+    padding: 1rem;
+    vertical-align: top; padding-right: 5rem;
+
+}
+
+#find{
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: saddlebrown;
+    background-color: seashell;
+}
+
+img{
+    display: block;
+    position: fixed;
+    background-color: hsl(258, 100%, 93%);
+    padding: 1rem 1rem 2rem 1rem;
+    border: 5px solid rgb(59, 77, 126);
+    border-radius: 0.2cm;
+    margin: 1rem 2rem 1rem 2rem;
+    width: 11rem;
+}
+
+table.edu{
+    padding: 3rem;
+    vertical-align: top;
+    padding-right: 80rem;
+}
+
+textarea{
+    position: static;
+}
+
+
+@media (min-width: 400px) and (max-width: 900px){
+      h1{
+          color: greenyellow;
+          background-color: slategray;
+      }
+}
+
+.contact{
+    padding: 1rem;
+    vertical-align: top; padding-right: 5rem;
+    font-family: monospace;
+}
+
+
